@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    color: goldenrod;
+
+}
+
+canvas{
+    background-color: white;
+    margin-top: 100px;
+}
